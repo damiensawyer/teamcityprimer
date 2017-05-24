@@ -6,7 +6,8 @@ namespace GeneralFunctions
     {
         public static int Add(int i, int j)
         {
-            return i + j;
+            var result = i + j;
+            return result;
         }
     }
 }

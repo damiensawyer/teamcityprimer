@@ -5,3 +5,10 @@ c:\users\damien sawyer\documents\visual studio 2017\Projects\TeamCityPrimer\Gene
 c:\users\damien sawyer\documents\visual studio 2017\Projects\TeamCityPrimer\GeneralFunctions\obj\Debug\netstandard1.4\GeneralFunctions.AssemblyInfo.cs
 c:\users\damien sawyer\documents\visual studio 2017\Projects\TeamCityPrimer\GeneralFunctions\obj\Debug\netstandard1.4\GeneralFunctions.dll
 c:\users\damien sawyer\documents\visual studio 2017\Projects\TeamCityPrimer\GeneralFunctions\obj\Debug\netstandard1.4\GeneralFunctions.pdb
+C:\temp\code\TeamCityPrimer\GeneralFunctions\bin\Debug\netstandard1.4\GeneralFunctions.deps.json
+C:\temp\code\TeamCityPrimer\GeneralFunctions\bin\Debug\netstandard1.4\GeneralFunctions.dll
+C:\temp\code\TeamCityPrimer\GeneralFunctions\bin\Debug\netstandard1.4\GeneralFunctions.pdb
+C:\temp\code\TeamCityPrimer\GeneralFunctions\obj\Debug\netstandard1.4\GeneralFunctions.csprojResolveAssemblyReference.cache
+C:\temp\code\TeamCityPrimer\GeneralFunctions\obj\Debug\netstandard1.4\GeneralFunctions.AssemblyInfo.cs
+C:\temp\code\TeamCityPrimer\GeneralFunctions\obj\Debug\netstandard1.4\GeneralFunctions.dll
+C:\temp\code\TeamCityPrimer\GeneralFunctions\obj\Debug\netstandard1.4\GeneralFunctions.pdb

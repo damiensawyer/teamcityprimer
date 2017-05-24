@@ -3708,10 +3708,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\damien sawyer\\documents\\visual studio 2017\\Projects\\TeamCityPrimer\\GeneralFunctions\\GeneralFunctions.csproj",
+      "projectUniqueName": "C:\\temp\\code\\TeamCityPrimer\\GeneralFunctions\\GeneralFunctions.csproj",
       "projectName": "GeneralFunctions",
-      "projectPath": "c:\\users\\damien sawyer\\documents\\visual studio 2017\\Projects\\TeamCityPrimer\\GeneralFunctions\\GeneralFunctions.csproj",
-      "outputPath": "c:\\users\\damien sawyer\\documents\\visual studio 2017\\Projects\\TeamCityPrimer\\GeneralFunctions\\obj\\",
+      "projectPath": "C:\\temp\\code\\TeamCityPrimer\\GeneralFunctions\\GeneralFunctions.csproj",
+      "outputPath": "C:\\temp\\code\\TeamCityPrimer\\GeneralFunctions\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"

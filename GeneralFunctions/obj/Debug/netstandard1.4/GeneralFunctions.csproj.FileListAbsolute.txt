@@ -1,0 +1,7 @@
+c:\users\damien sawyer\documents\visual studio 2017\Projects\TeamCityPrimer\GeneralFunctions\bin\Debug\netstandard1.4\GeneralFunctions.deps.json
+c:\users\damien sawyer\documents\visual studio 2017\Projects\TeamCityPrimer\GeneralFunctions\bin\Debug\netstandard1.4\GeneralFunctions.dll
+c:\users\damien sawyer\documents\visual studio 2017\Projects\TeamCityPrimer\GeneralFunctions\bin\Debug\netstandard1.4\GeneralFunctions.pdb
+c:\users\damien sawyer\documents\visual studio 2017\Projects\TeamCityPrimer\GeneralFunctions\obj\Debug\netstandard1.4\GeneralFunctions.csprojResolveAssemblyReference.cache
+c:\users\damien sawyer\documents\visual studio 2017\Projects\TeamCityPrimer\GeneralFunctions\obj\Debug\netstandard1.4\GeneralFunctions.AssemblyInfo.cs
+c:\users\damien sawyer\documents\visual studio 2017\Projects\TeamCityPrimer\GeneralFunctions\obj\Debug\netstandard1.4\GeneralFunctions.dll
+c:\users\damien sawyer\documents\visual studio 2017\Projects\TeamCityPrimer\GeneralFunctions\obj\Debug\netstandard1.4\GeneralFunctions.pdb
